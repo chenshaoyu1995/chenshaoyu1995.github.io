@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaoyu Chen</title>
+    <link>https://chenshaoyu1995.github.io/</link>
+      <atom:link href="https://chenshaoyu1995.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaoyu Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chenshaoyu1995.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Shaoyu Chen</title>
+      <link>https://chenshaoyu1995.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Instant Reality: Gaze-Contingent Perceptual Optimization for 3D Virtual Reality Streaming</title>
+      <link>https://chenshaoyu1995.github.io/publication/instantreality/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://chenshaoyu1995.github.io/publication/instantreality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UrbanRama: Navigating Cities in Virtual Reality</title>
+      <link>https://chenshaoyu1995.github.io/publication/urbanrama/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://chenshaoyu1995.github.io/publication/urbanrama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Situated Analytics of Ego-centric Network Data</title>
+      <link>https://chenshaoyu1995.github.io/publication/mobilesituated/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://chenshaoyu1995.github.io/publication/mobilesituated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ParkVis: A Visual Analytic System for Anomaly Detection in DinoFun World</title>
+      <link>https://chenshaoyu1995.github.io/publication/parkvis/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://chenshaoyu1995.github.io/publication/parkvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chenshaoyu1995.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chenshaoyu1995.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
